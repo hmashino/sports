@@ -1,0 +1,21 @@
+html,body{
+    background-color: lightgreen;
+    font-family: 'Segoe UI'
+}
+
+h1 {
+    font-size: 80px;
+    color: green;
+    text-shadow: 3px 3px black;
+}
+
+a:link {
+    color: green;
+    text-decoration: none;
+}
+a:visited {
+    color:cornflowerblue;
+}
+a:hover {
+    text-shadow: 2px 2px 3px black;
+}
